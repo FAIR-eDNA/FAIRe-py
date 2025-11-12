@@ -1,0 +1,3 @@
+[submodule "FAIRe2ENA"]
+	path = FAIRe2ENA
+	url = https://github.com/FAIR-eDNA/FAIRe2ENA
